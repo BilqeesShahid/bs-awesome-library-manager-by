@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Python Crash Course",
+        "author": "Eric Matthes",
+        "year": 2019,
+        "genre": "Programming",
+        "read": true,
+        "content": "A hands-on introduction to Python with real-world projects, covering data structures, web apps, and game development."
+    },
+    {
+        "title": "Clean Code",
+        "author": "Robert C. Martin",
+        "year": 2008,
+        "genre": "Software development",
+        "read": true,
+        "content": "A fundamental book on writing clean, maintainable, and efficient code, with real-world examples and refactoring techniques."
+    },
+    {
+        "title": "JavaScript: The Good Parts",
+        "author": "Douglas Crockford",
+        "year": 2008,
+        "genre": "Programming Language",
+        "read": true,
+        "content": "A classic book that highlights the best features of JavaScript while avoiding its pitfalls, ideal for intermediate and advanced developers."
+    },
+    {
+        "title": "The Alignment Problem: Machine Learning and Human Values",
+        "author": "Brian Christian",
+        "year": 2020,
+        "genre": "Artificial Intelligence",
+        "read": false,
+        "content": "A deep exploration of AI alignment, discussing ethical concerns, reinforcement learning, and the challenges of ensuring AI systems reflect human values."
+    }
+]
